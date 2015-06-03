@@ -1,0 +1,49 @@
+STEP translation to Solid Edge
+Date: Tuesday,February 03,2015 11 :43AM
+Source File: Y:\Julien\bluetooth sweat sensor\datasheets\connector\audio jack\CUI\SJ 3503\SJ-3503-SMT.stp
+Author: 'carefree'
+Organization: '
+Source System: PRO/ENGINEER BY PARAMETRIC TECHNOLOGY CORPORATION, 2010020
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz
+Operating System: Windows 7 Home
+Installed Memory: 11.91 GB
+
+Software Information
+Parasolid Version: 26.0.169
+PSBodyShop Version: 16.1.150
+Translator Version: 16.42.0
+Solid Edge Version: 106.00.02.05
+
+Step Import Options
+Enable transfer of attributes: On
+Import Class II Wires: On
+Import Class III Wires: On
+Import Class IV Surfaces: On
+Import Class VI Solids: On
+Enable Stitch : On
+Import and Sew Class II Surfaces: On
+Translate Class IV Solids as Trimmed Surfaces then Stitch: Off
+Boolean Solid Bodies: On
+Make Base Feature: On
+Simplify Geometry: On
+Heal and Sewing Enabled: Off
+Enable Internal Healing: On
+Export Part Component Names As Unicode: On
+
+Phase 1 of 3 Translating to Parasolid data types...
+End of Translation to Parasolid Data Types
+Time required to translate:00 : 00 : 01
+
+Phase 2 of 3 Simplify Geometry...
+Geometry simplification process complete
+Time required to simplify: 00 : 00 : 00
+Stitching free surfaces...
+
+Phase 3 of 3 Creating Parasolid entities...
+Total number of sheets: 0
+Total number of solid bodies: 6
+Total Number of Wire bodies:0
+Translation process completed
+Total time required to translate and post process:00 : 00 : 01

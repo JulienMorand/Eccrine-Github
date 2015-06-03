@@ -1,0 +1,13 @@
+(module 70ABM_landing_pads (layer F.Cu) (tedit 545154CD)
+  (solder_mask_margin 0.01)
+  (fp_text reference W? (at 0 -2.2 180) (layer F.SilkS)
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
+  )
+  (fp_text value TEST (at 0 1.95) (layer F.SilkS) hide
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
+  )
+  (pad 1 smd rect (at 0 0.635) (size 2.54 0.8) (layers F.Cu F.Mask)
+    (clearance 0.01))
+  (pad 2 smd rect (at 0 -0.635) (size 2.54 0.8) (layers F.Cu F.Mask)
+    (clearance 0.01))
+)

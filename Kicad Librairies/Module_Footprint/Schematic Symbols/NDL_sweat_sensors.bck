@@ -1,0 +1,213 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2_ways_spring_connector
+D 2 way spring ultra-low profile connector
+K Connector Low-profil spring AVX MoboCAT
+F Y:/Kicad Libraries/Documentation/Connector/Spring connector/AVX/mobocat_spring_connector.pdf
+$ENDCMP
+#
+$CMP 3_ways_spring_connector
+D 3 way spring right angle connector
+K Connector spring AVX MoboCAT battery
+F Y:/Kicad Libraries/Documentation/Connector/Spring connector/AVX/mobocat_spring_connector.pdf
+$ENDCMP
+#
+$CMP 6200_contact_pad
+D 1 mm pitch FPC ribbon that fit in the 6200 connector series from Kyocera
+K FPC 
+F Y:/Kicad Libraries/Documentation/Connector/ZIF connector/1 mm pitch/Kyocera/6200.pdf
+$ENDCMP
+#
+$CMP 6200_contact_pad_11_positions
+D 1 mm pitch FPC ribbon that fit in the 6200 connector series from Kyocera
+K FPC 
+F Y:/Kicad Libraries/Documentation/Connector/ZIF connector/1 mm pitch/Kyocera/6200.pdf
+$ENDCMP
+#
+$CMP 75869-Y01
+D HE10 connector 10 positions
+K HE10 connector
+F Y:/Kicad Libraries/Documentation/Connector/FCI/75869_series.pdf
+$ENDCMP
+#
+$CMP 75869-Y31
+D HE10 connector 6 pisitions
+K HE10 connector
+F Y:/Kicad Libraries/Documentation/Connector/FCI/75869_series.pdf
+$ENDCMP
+#
+$CMP AD8226
+D Instrumentation amplifier
+K Instrumentation amplifier single supply rail2rail
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8226.pdf
+$ENDCMP
+#
+$CMP ATSAM4LC48
+D ARM-based Flash microcontroller
+K MCU ATMEL ARM
+F Y:/Kicad Libraries/Documentation/ucontroller/ATMEL/ARM/Atmel-42023-ARM-Microcontroller-ATSAM4L-Low-Power-LCD_Datasheet.pdf
+$ENDCMP
+#
+$CMP ATSAM4LS48
+D ARM-based Flash microcontroller
+K MCU ATMEL ARM
+F Y:/Kicad Libraries/Documentation/ucontroller/ATMEL/ARM/Atmel-42023-ARM-Microcontroller-ATSAM4L-Low-Power-LCD_Datasheet.pdf
+$ENDCMP
+#
+$CMP BLE_112-A
+D Bluetooth low energy simgle mode module
+K Bluetooth Wireless Bluegiga
+F Y:/Kicad Libraries/Documentation/Bluetooth module/Bluegiga/BLE112A/BLE112_Datasheet.pdf
+$ENDCMP
+#
+$CMP DMR04
+D DIP switch
+K switch
+F http://www.apem.com/files/apem/brochures/NDI_DM_DIPS.pdf
+$ENDCMP
+#
+$CMP DR331-474BE
+D Common Mode Choke
+K EMC Choke Common Mode
+$ENDCMP
+#
+$CMP FSA5157L6X
+D SPDT analog switch IC
+K SPDT switch 
+F https://www.fairchildsemi.com/datasheets/FS/FSA5157.pdf
+$ENDCMP
+#
+$CMP Ferrite_bead
+D Hight frequency choke inductor
+K ferrite filter
+F Y:/Kicad Libraries/Documentation/ferrite bead/Murata/L0110S0100BLM15AG_SN.pdf
+$ENDCMP
+#
+$CMP G12JPC
+D Toggle switch with LED lighting
+K switch
+F http://www.nkkswitches.com/pdf/gtogglesilluminated.pdf
+$ENDCMP
+#
+$CMP G12JPF
+D Toggle switch with LED lighting
+K switch
+F http://www.nkkswitches.com/pdf/gtogglesilluminated.pdf
+$ENDCMP
+#
+$CMP INA333DGK
+D Instrumentation amplifier
+K Instrumentation amplifier single supply rail2rail
+F http://www.ti.com/lit/ds/symlink/ina333.pdf
+$ENDCMP
+#
+$CMP INDUCTOR
+D LQH3NP_J0 Series
+K Inductor SMD POWER 1212
+F Y:/Kicad Libraries/Documentation/Inductor/Murata/L0075S0103LQH3NP_J0.pdf
+$ENDCMP
+#
+$CMP KMT221G
+D reset switch
+K switch tactile
+$ENDCMP
+#
+$CMP LD1117ADT-TR
+D LD1117S33TR, 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, D2pack
+K REGULATOR LDO 3.3V
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00002116.pdf
+$ENDCMP
+#
+$CMP LED
+K LED
+$ENDCMP
+#
+$CMP LTST-C19HEIWT
+D Common Anode RGB LED
+K LED RGB
+F Y:\Kicad Libraries\Documentation\LED\Liteon\S_110_LTST-C19HE1WT.pdf
+$ENDCMP
+#
+$CMP MAX349EAP
+D 8 channels to 1 multiplexer controllable by SPI
+K multiplexer SPI
+F Y:/Kicad Libraries/Documentation/multiplexer/Maxim/MAX349-MAX350.pdf
+$ENDCMP
+#
+$CMP MLX_90129
+D RFID transmitter with 2 channel ADC and SPI port
+K RFID
+F Y:/Kicad Libraries/Documentation/RFID transmitter/Melexis/MLX90129_Datasheet  rev009.pdf
+$ENDCMP
+#
+$CMP Molex_0397000004
+D Terminal connector with spring locking
+K terminal spring
+F http://www.molex.com/pdm_docs/sd/397000004_sd.pdf
+$ENDCMP
+#
+$CMP OPA333
+D Low Offset voltage single supply rail2rail
+K AmpliOp rail2rail 
+F op_amps/tl071.pdf
+$ENDCMP
+#
+$CMP PIC24FJXXXGC010
+D 16-Bit Flash Microcontrollers with 12-Bit  A/D, SD A/D USB
+K microchip PIC microcontroller
+F Y:/Kicad Libraries/Documentation/ucontroller/microchip/PIC24/PIC24FJXXXGC010.pdf
+$ENDCMP
+#
+$CMP Ref3318XX
+D 1.8 Volts reference voltage
+K reference voltage
+F http://www.ti.com/lit/ds/symlink/ref3312.pdf
+$ENDCMP
+#
+$CMP SMD_4_pin_crystal
+D 4 pin crystal oscillator
+K CRYSTAL SMD
+F Y:/Kicad Libraries/Documentation/Crystal oscillator/Abracon Coporation/abm3b.pdf
+$ENDCMP
+#
+$CMP SS340/440_Hall_effect_sensor
+D Hall effect sensor
+K sensor hall
+F http://sensing.honeywell.com/honeywell-sensing-ss340rt-ss440r-unipolar-digital-hall-effect%20sensors-ic-productsheet-005909-3-en.pdf
+$ENDCMP
+#
+$CMP TC2030-IDC-NL
+D Footprint for the programming BLE MOdule with CC debugger
+K CC debugger BLE spring connector
+F Y:/Kicad Libraries/Documentation/Connector/CC debugger connector/Tag connect/TC2030-IDC-NL.pdf
+$ENDCMP
+#
+$CMP TC2050-IDC-NL
+D Footprint for the JTAG connector from TAG connect
+K JTAG spring connector
+F Y:/Kicad Libraries/Documentation/Connector/JTAG connector/Tag connect/TC2050-IDC-NL.pdf
+$ENDCMP
+#
+$CMP TL071
+D Op amp.
+K AmpliOp
+F op_amps/tl071.pdf
+$ENDCMP
+#
+$CMP TL081
+F op_amps/tl081.pdf
+$ENDCMP
+#
+$CMP TLV7113333
+D Dual 200 mA LDO regulator
+K POWER LDO regulator Texas
+F Y:/Kicad Libraries/Documentation/Low-dropout Regulator/Texas Instruments/TLV711 Series.pdf
+$ENDCMP
+#
+$CMP TPS63001
+D Single inductor Buck-boost converter
+K DC-DC converter
+F http://www.ti.com/lit/ds/symlink/tps63001.pdf
+$ENDCMP
+#
+#End Doc Library

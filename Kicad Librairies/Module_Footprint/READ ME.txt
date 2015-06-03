@@ -1,0 +1,2 @@
+this folder contains all the use footprint in some of the Novel device Laboratory PCB board.
+All of these footprint are not fully validated and some may have never trun into real PCB footprint.
